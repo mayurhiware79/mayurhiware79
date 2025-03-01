@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/mayur-hiware/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/>
   </a>
   <a href="https://www.reddit.com/user/Economy_Smell_5481/">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/>
@@ -28,7 +28,10 @@
   <a href="mailto:mayurhiware01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-</p>  
+  <a href="https://leetcode.com/u/mayurhiware/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
