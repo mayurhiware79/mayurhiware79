@@ -1,21 +1,110 @@
-# 💫 About Me:
-💡 About Me:<br>I'm currently working on improving my programming skills and developing innovative projects, like a Java-based Flappy Bird game.<br><br>🤝 I'm looking to collaborate on:<br>Exciting Java projects, DSA problem-solving, or tech challenges like hackathons.<br><br>❓ I'm looking for help with:<br>Enhancing my English communication skills and collaborating on unique tech ideas.<br><br>📚 I'm currently learning:<br>Data Structures and Algorithms in Java, solving LeetCode problems, and diving deeper into Computer Networks.<br><br>💬 Ask me about:<br>Java projects, my experience with coding challenges, or tips for staying consistent with personal goals.<br><br>🎉 Fun fact:<br>I turned a casual interest in programming into cool projects, like an ATM simulator and a quiz app with a timer!<br>
+<p align="center">
+  <img src="https://github.com/mayurhiware79/mayurhiware79/blob/main/github%20profile%20image.jpg?raw=true" alt="banner" width="90%">
+</p>
 
+<h1 align="center"> Hi😉, I'm <span style="color:#FFA500;">Mayur Hiware</span> 👋 </h1>  
+<h3 align="center"> 💻 Passionate Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver </h3>  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayur.hiware.79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayur-hiware) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:munjajihiware2@gmail.com) 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212807544-75659ff1-1a4c-4f36-bb8f-45caae1ccabe.gif" width="70%">
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+<p align="center"><em>✨ "Clean code always looks like it was written by someone who cares." ✨</em></p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayurhiware79&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">🌐 Connect with Me</h2>  
+
+<p align="center">
+  <a href="https://www.instagram.com/mayur.hiware.79/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mayur-hiware/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.reddit.com/user/Economy_Smell_5481/">
+    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/>
+  </a>
+  <a href="mailto:mayurhiware01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>  
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white"/>
+</p>  
+
+---
+
+<h2 align="center">🚀 GitHub Insights & Top Languages</h2>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
+</p>  
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mayurhiware79&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🌙 GitHub Activity Graph</h2>  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=github-dark&hide_border=true"/>
+</p>
+
+
+---
+<h2 align="center">🏆 GitHub Trophies</h2>  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurhiware79&theme=radical&no-frame=true&margin-w=6&column=8"/>
+</p>
+
+
+---
+
+<h2 align="center">✍️ Random Dev Quote</h2>  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>  
+
+---
+
+<h2 align="center">🔝 Top Contributed Repo</h2>  
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mayurhiware79&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>  
+
+---
+<h2 align="center">👀 Visitor Count</h2>  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurhiware79&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Visitor Count" />
+</p>
+
+
+<!-- Bottom Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+</p>
