@@ -2,7 +2,7 @@
   <img src="https://github.com/mayurhiware79/mayurhiware79/blob/main/github%20profile%20image.jpg?raw=true" alt="banner" width="90%">
 </p>
 
-<h1 align="center"> Hi😉, I'm <span style="color:#FFA500;">Mayur Hiware</span> 👋 </h1>  
+<h1 align="center">👋 Hi, I'm <span style="color:#FFA500;">Mayur Hiware</span> 😉</h1>  
 <h3 align="center"> 💻 Passionate Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver </h3>  
 
 <p align="center">
