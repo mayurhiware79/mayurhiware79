@@ -97,11 +97,12 @@
 </p>  
 
 ---
-<h2 align="center">👀 Visitor Count</h2>  
+<h2 align="center">👀 Profile Visits</h2>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurhiware79&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/mayurhiware79/count.svg" alt="Visitor Count"/>
 </p>
+
 
 
 <!-- Bottom Image -->
