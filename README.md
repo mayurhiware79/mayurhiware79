@@ -28,9 +28,9 @@
   <a href="mailto:mayurhiware01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/mayurhiware/">
+<!--   <a href="https://leetcode.com/u/mayurhiware/">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black"/>
-  </a>
+  </a> -->
 </p>
 
 ---
