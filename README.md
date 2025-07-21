@@ -99,13 +99,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=mayurhiware79&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>  
 
----
-<h2 align="center">👀 Profile Visits</h2>  
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mayurhiware79/count.svg" alt="Visitor Count"/>
-</p>
-
 
 
 <!-- Bottom Image -->
