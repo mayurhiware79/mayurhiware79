@@ -1,118 +1,114 @@
+<!-- Dynamic Banner -->
 <p align="center">
-  <img src="https://github.com/mayurhiware79/mayurhiware79/blob/main/github%20profile%20image.jpg?raw=true" alt="banner" width="90%">
+  <img src="https://github.com/mayurhiware79/mayurhiware79/blob/main/github%20profile%20image.jpg?raw=true" alt="Mayur Hiware - Banner" width="90%">
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#FFA500;">Mayur Hiware</span> 😉</h1>  
-<h3 align="center"> 💻 Passionate Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver </h3>  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=700&color=FFA500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayur+Hiware!;AI+%26+ML+Developer;Full+Stack+Innovator;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212807544-75659ff1-1a4c-4f36-bb8f-45caae1ccabe.gif" width="70%">
+  <img src="https://user-images.githubusercontent.com/74038190/212807544-75659ff1-1a4c-4f36-bb8f-45caae1ccabe.gif" width="75%">
 </p>
 
-<p align="center"><em>✨ "Clean code always looks like it was written by someone who cares." ✨</em></p>
+<p align="center">
+  <em>✨ "Turning ideas into impact through intelligent code." ✨</em>
+</p>
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>  
+<h2 align="center">🌐 Connect & Collaborate</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/mayur.hiware.79/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/mayur-hiware/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&style=for-the-badge" /></a>
+  <a href="https://www.instagram.com/mayur.hiware.79/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&style=for-the-badge" /></a>
+  <a href="mailto:mayurhiware01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&style=for-the-badge" /></a>
+  <a href="https://www.reddit.com/user/Economy_Smell_5481/"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurhiware79&label=Profile+Views&color=orange&style=flat-square" alt="views"/>
+  <img src="https://img.shields.io/badge/Timezone-IST_(UTC+5:30)-blue?style=flat-square" alt="timezone"/>
+</p>
+
+---
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+</p>
+
+> 👋 I'm **Mayur Hiware**, an **AI/ML enthusiast**, **full-stack developer**, and **hackathon innovator**.  
+> 💡 Passionate about blending **data-driven intelligence** with **beautiful user experiences**.  
+> 🥈 Proud **2nd place winner** at **COEP MindSpark’25 Hackathon (Team Vertex)**.  
+> 🌱 Currently exploring **TensorFlow, Node.js, and PostgreSQL**.  
+> 🎯 Mission: Build tools that *think* with you, not just for you.  
+
+---
+
+<h2 align="center">💻 Tech Universe</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,nodejs,tensorflow,mongodb,postgres,aws,azure,firebase,vercel&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">⚡ GitHub Pulse</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&layout=compact&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true" width="90%"/>
+</p>
+
+---
+
+<h2 align="center">📈 Activity Heatwave</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=react-dark&bg_color=0d1117&hide_border=true&line=FFA500&point=FFFFFF"/>
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements & Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mayurhiware79&theme=radical&no-frame=true&margin-w=10&column=8"/>
+</p>
+
+---
+
+<h2 align="center">🌀 Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/mayurhiware79/GenMail">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayurhiware79&repo=GenMail&theme=radical" width="45%"/>
   </a>
-  <a href="https://www.linkedin.com/in/mayur-hiware/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white"/>
+  <a href="https://github.com/mayurhiware79/Smart-Sequencing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayurhiware79&repo=Smart-Sequencing&theme=radical" width="45%"/>
   </a>
-  <a href="https://www.reddit.com/user/Economy_Smell_5481/">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/>
-  </a>
-  <a href="mailto:mayurhiware01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-<!--   <a href="https://leetcode.com/u/mayurhiware/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black"/>
-  </a> -->
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurhiware79&color=orange&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Time%20Zone-IST%20(UTC%2B5%3A30)-blue?style=flat-square" alt="Time Zone" />
 </p>
 
 ---
 
-<h2 align="center">💻 Tech Stack</h2>  
+<h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white"/>
-</p>  
-
----
-
-<h2 align="center">🚀 GitHub Insights & Top Languages</h2>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
-</p>  
-
----
-
-<h2 align="center">📈 GitHub Activity Graph</h2>  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=github-dark&hide_border=true"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>  
+<h2 align="center">🐍 Dynamic Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayurhiware79&theme=radical&no-frame=true&margin-w=6&column=8"/>
-</p>
-
----
-
-<h2 align="center">✍️ Random Dev Quote</h2>  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>  
-
----
-
-<h2 align="center">🔝 Top Contributed Repo</h2>  
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mayurhiware79&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>  
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/github-contribution-grid-snake.svg" width="90%">
 </p>
 
 ---
@@ -120,7 +116,7 @@
 <h2 align="center">🌆 GitHub Skyline</h2>
 
 <p align="center">
-  <img src="https://skyline.github.com/mayurhiware79/2024.svg" alt="My GitHub Skyline 2024" />
+  <img src="https://skyline.github.com/mayurhiware79/2024.svg" alt="Skyline Animation"/>
 </p>
 
 ---
