@@ -77,19 +77,6 @@
 
 ---
 
-<h2 align="center">🌀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/mayurhiware79/GenMail">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayurhiware79&repo=GenMail&theme=radical" width="45%"/>
-  </a>
-  <a href="https://github.com/mayurhiware79/Smart-Sequencing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayurhiware79&repo=Smart-Sequencing&theme=radical" width="45%"/>
-  </a>
-</p>
-
----
-
 <h2 align="center">💬 Random Dev Quote</h2>
 
 <p align="center">
