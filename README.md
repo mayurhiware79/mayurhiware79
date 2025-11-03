@@ -33,6 +33,11 @@
   </a> -->
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurhiware79&color=orange&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Time%20Zone-IST%20(UTC%2B5%3A30)-blue?style=flat-square" alt="Time Zone" />
+</p>
+
 ---
 
 <h2 align="center">💻 Tech Stack</h2>  
@@ -45,6 +50,11 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=plastic&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase"/>
@@ -65,23 +75,21 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
 </p>  
 
-
 ---
 
-<h2 align="center">🌙 GitHub Activity Graph</h2>  
+<h2 align="center">📈 GitHub Activity Graph</h2>  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=github-dark&hide_border=true"/>
 </p>
 
-
 ---
+
 <h2 align="center">🏆 GitHub Trophies</h2>  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mayurhiware79&theme=radical&no-frame=true&margin-w=6&column=8"/>
 </p>
-
 
 ---
 
@@ -99,9 +107,24 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=mayurhiware79&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>  
 
+---
 
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<!-- Bottom Image -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<h2 align="center">🌆 GitHub Skyline</h2>
+
+<p align="center">
+  <img src="https://skyline.github.com/mayurhiware79/2024.svg" alt="My GitHub Skyline 2024" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 </p>
