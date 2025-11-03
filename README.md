@@ -55,16 +55,9 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Pulse</h2>
+<!-- <h2 align="center">⚡ GitHub Pulse</h2> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&layout=compact&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true" width="90%"/>
-</p>
+<h2 align="center">🚀 GitHub Insights & Top Languages</h2> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%"/> </p> <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/> </p>
 
 ---
 
