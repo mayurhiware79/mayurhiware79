@@ -98,22 +98,6 @@
 
 ---
 
-<h2 align="center">🐍 Dynamic Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/github-contribution-grid-snake.svg" width="90%">
-</p>
-
----
-
-<h2 align="center">🌆 GitHub Skyline</h2>
-
-<p align="center">
-  <img src="https://skyline.github.com/mayurhiware79/2024.svg" alt="Skyline Animation"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 </p>
