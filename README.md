@@ -1,7 +1,7 @@
 <!-- Dynamic Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/mayurhiware79/mayurhiware79/blob/main/github%20profile%20image.jpg?raw=true" alt="Mayur Hiware - Banner" width="90%">
-</p>
+</p> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=700&color=FFA500&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mayur+Hiware!;AI+%26+ML+Developer;Full+Stack+Innovator;Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
