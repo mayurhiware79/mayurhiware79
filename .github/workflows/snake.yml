@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: 🐍 Generate Snake Animation
 
 on:
   schedule:
@@ -11,9 +11,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: mayurhiware79
           outputs: |
@@ -21,18 +26,20 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
             dist/snake.gif?color_snake=orange
 
-      - name: Upload to GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+      - name: Upload artifact to Pages
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
     permissions:
       pages: write
       id-token: write
 
     steps:
-      - name: Deploy
-        uses: actions/deploy-pages@v2
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
