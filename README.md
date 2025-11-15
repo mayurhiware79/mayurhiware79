@@ -65,7 +65,6 @@
  
 </p>
 
----
 
 <!-- Profile Stats -->
 <p align="center">
@@ -78,9 +77,6 @@
 
 ## 🧠 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
-</div>
 
 <div align="left">
 
@@ -135,13 +131,15 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/github-contribution-grid-snake.svg" />
+  <img src="https://mayurhiware79.github.io/mayurhiware79/snake.svg" />
 </p>
 
+
 ---
+
 
 ## 🏆 GitHub Trophies
 
