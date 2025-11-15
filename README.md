@@ -72,8 +72,9 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/snake.svg" alt="Contribution Snake" />
 </p>
+
 
 ---
 
