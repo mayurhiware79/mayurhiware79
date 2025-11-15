@@ -15,13 +15,13 @@
 ---
 
 <!-- 🚀 Heroku App Style Launch Badge -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://img.shields.io/badge/DEPLOYMENT_STATUS-Running-success?style=for-the-badge&logo=heroku&logoColor=white&color=79589F" />
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=9F7FFF&center=true&width=600&lines=Initializing+Mayur.Hiware.App();Deploying+AI+Models...;Building+Full-Stack+Infrastructure...;Loading+Machine+Learning+Pipelines...;System+Online+✓">
 
-</div>
+</div> -->
 
 
 
