@@ -1,0 +1,38 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: mayurhiware79
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake.gif?color_snake=orange
+
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy
+        uses: actions/deploy-pages@v2
