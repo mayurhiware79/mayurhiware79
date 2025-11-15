@@ -46,26 +46,6 @@
 
 ---
 
-<!-- Social Connect with Advanced Badges -->
-<h2 align="center">🌐 Connect & Collaborate</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayur-hiware/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mayur.hiware.79/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mayurhiware01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/Economy_Smell_5481/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
- 
-</p>
-
-
 <!-- Profile Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurhiware79&label=Profile+Views&color=orange&style=flat-square" />
@@ -145,6 +125,27 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=mayurhiware79&theme=radical&no-frame=true&no-bg=false&margin-w=15&row=2&column=4" />
+</p>
+
+---
+
+<!-- Social Connect with Advanced Badges -->
+<h2 align="center">🌐 Connect & Collaborate</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayur-hiware/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/mayur.hiware.79/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:mayurhiware01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/Economy_Smell_5481/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+ 
 </p>
 
 ---
