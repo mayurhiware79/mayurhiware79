@@ -58,7 +58,7 @@
 ## 🧠 About Me
 
 <div align="left">
-<pre style="font-size:18px">
+<pre style="font-size:28px">
 
 ```yaml
 name: Mayur Hiware
