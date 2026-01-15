@@ -1,3 +1,4 @@
+
 <!-- Dynamic Animated Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=200&section=header&text=Mayur%20Hiware&fontSize=70&fontColor=C9F3FF&animation=fadeIn" />
@@ -57,47 +58,30 @@
 
 ## 🧠 About Me
 
+
 <div align="left">
-<pre style="font-size:28px">
 
 ```yaml
 name: Mayur Hiware
 located_in: Kolhapur, India
-current_role: LeetCoder | CS Undergrad
+current_job: LeetCoder 😅
 education:
-  - degree: B.Tech in Computer Science
-    status: Pursuing
-    interests: ["DSA", "AI", "Software Engineering"]
-
-about_me:
-  - Passionate about solving real-world problems
-  - Strong believer in consistency > motivation
-  - Learning by building & contributing to open source
+  - "B.Tech in Computer Science"
 
 fields_of_interest:
-  - Machine Learning
-  - Deep Learning
-  - Full Stack Development
-  - Natural Language Processing
-  - Software Engineering
+  - "Machine Learning"
+  - "Deep Learning"
+  - "Full Stack Development"
+  - "Computer Vision"
+  - "Natural Language Processing"
 
-technical_skills:
-  languages: ["Java", "Python", "C", "JavaScript"]
-  frontend: ["HTML", "CSS", "React"]
-  backend: ["Node.js", "Express", "Django", "Flask"]
-  databases: ["MySQL", "MongoDB"]
-  tools: ["Git", "GitHub", "Linux", "VS Code"]
-  concepts: ["OOP", "DBMS", "OS", "CN", "DSA"]
-
-currently_learning:
-  - Advanced DSA & Competitive Programming
-  - System Design (Basics)
-  - Machine Learning & AI
-  - Open Source Contribution
+hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 ```
-<pre>
+
 </div>
-  
+
+
+---
 
 ## 💻 Tech Universe
 
@@ -105,6 +89,7 @@ currently_learning:
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,aws,azure,firebase,git,github,visualstudio,linux,bash&theme=dark&perline=10" />
 </p>
 
+---
 
 ## 🚀 GitHub Insights & Top Languages
 
@@ -117,6 +102,7 @@ currently_learning:
   <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
 </p>
 
+---
 
 ## 📈 Contribution Graph
 
@@ -124,6 +110,7 @@ currently_learning:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=react-dark&bg_color=0d1117&hide_border=true&line=FFA500&point=FFFFFF&area=true&area_color=FFA500&custom_title=My%20Contribution%20Activity" />
 </p>
 
+---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -132,6 +119,7 @@ currently_learning:
 </p>
 
 
+---
 
 
 
