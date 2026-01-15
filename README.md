@@ -63,18 +63,37 @@
 ```yaml
 name: Mayur Hiware
 located_in: Kolhapur, India
-current_job: LeetCoder 😅
+current_role: LeetCoder | CS Undergrad
 education:
-  - "B.Tech in Computer Science"
+  - degree: B.Tech in Computer Science
+    status: Pursuing
+    interests: ["DSA", "AI", "Software Engineering"]
+
+about_me:
+  - Passionate about solving real-world problems
+  - Strong believer in consistency > motivation
+  - Learning by building & contributing to open source
 
 fields_of_interest:
-  - "Machine Learning"
-  - "Deep Learning"
-  - "Full Stack Development"
-  - "Computer Vision"
-  - "Natural Language Processing"
+  - Machine Learning
+  - Deep Learning
+  - Full Stack Development
+  - Natural Language Processing
+  - Software Engineering
 
-hobbies: ["Coding", "Playing", "Reading", "Open Source"]
+technical_skills:
+  languages: ["Java", "Python", "C", "JavaScript"]
+  frontend: ["HTML", "CSS", "React"]
+  backend: ["Node.js", "Express", "Django", "Flask"]
+  databases: ["MySQL", "MongoDB"]
+  tools: ["Git", "GitHub", "Linux", "VS Code"]
+  concepts: ["OOP", "DBMS", "OS", "CN", "DSA"]
+
+currently_learning:
+  - Advanced DSA & Competitive Programming
+  - System Design (Basics)
+  - Machine Learning & AI
+  - Open Source Contribution
 ```
 <pre>
 </div>
