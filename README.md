@@ -97,8 +97,7 @@ currently_learning:
 ```
 <pre>
 </div>
-
----
+  
 
 ## 💻 Tech Universe
 
@@ -106,7 +105,6 @@ currently_learning:
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,aws,azure,firebase,git,github,visualstudio,linux,bash&theme=dark&perline=10" />
 </p>
 
----
 
 ## 🚀 GitHub Insights & Top Languages
 
@@ -119,7 +117,6 @@ currently_learning:
   <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
 </p>
 
----
 
 ## 📈 Contribution Graph
 
@@ -127,7 +124,6 @@ currently_learning:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=react-dark&bg_color=0d1117&hide_border=true&line=FFA500&point=FFFFFF&area=true&area_color=FFA500&custom_title=My%20Contribution%20Activity" />
 </p>
 
----
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -136,7 +132,6 @@ currently_learning:
 </p>
 
 
----
 
 
 
