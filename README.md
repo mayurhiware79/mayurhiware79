@@ -91,6 +91,16 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 
 ---
 
+# 🟧 LeetCode Badges (Earned)
+
+<p align="center">
+  <img src="25100.gif" width="160">
+  <img src="2550.gif" width="160">
+  <img src="202508.gif" width="160">
+</p>
+
+---
+
 ## 🚀 GitHub Insights & Top Languages
 
 <p align="center">
