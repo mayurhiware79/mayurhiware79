@@ -122,22 +122,11 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/dist/snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-
----
-
 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayurdongare269/mayurdongare269/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/snake.svg" />
 </p>
 
 ---
