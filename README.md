@@ -131,7 +131,6 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 </p>
 
 
-
 ---
 
 
