@@ -128,6 +128,9 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
   <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/snake.svg" />
 </p>
 
+![GitHub Snake](https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/dist/snake.svg)
+
+
 
 ---
 
