@@ -134,6 +134,15 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 ---
 
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayurdongare269/mayurdongare269/output/snake.svg" />
+</p>
+
+---
+
+
 
 ## 🏆 GitHub Trophies
 
