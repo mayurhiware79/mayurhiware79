@@ -103,14 +103,14 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 
 ## 🚀 GitHub Insights & Top Languages
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
@@ -168,14 +168,6 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
-
-<div align="center">
-
-⚡ Fun Fact:  
-I'm probably coding right now... or thinking about coding! 🚀  
-
-</div>
 
 <br>
 
