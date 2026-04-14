@@ -4,6 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=200&section=header&text=Mayur%20Hiware&fontSize=70&fontColor=C9F3FF&animation=fadeIn" />
 </div>
 
+<br>
 
 <!-- 🟢 Hacker Terminal Intro -->
 <div align="center">
