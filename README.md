@@ -99,9 +99,9 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
   <img src="202508.gif" width="160">
 </p>
 
----
+<!-- --- -->
 
-## 🚀 GitHub Insights & Top Languages
+<!-- ## 🚀 GitHub Insights & Top Languages -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%"/>
