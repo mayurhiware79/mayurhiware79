@@ -14,8 +14,6 @@
 </div>
 
 
----
-
 <!-- 🚀 Heroku App Style Launch Badge -->
 <!-- <div align="center">
 
@@ -46,7 +44,6 @@
   <em>✨ "Code that thinks, designs that inspire, solutions that transform." ✨</em>
 </p>
 
----
 
 <!-- Profile Stats -->
 <p align="center">
