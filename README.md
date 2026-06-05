@@ -9,7 +9,7 @@
 <!-- 🟢 Hacker Terminal Intro -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=1800&pause=900&color=00FF00&center=true&width=740&lines=%3E+HELLO+WORLD...;%3E+I+AM+MAYUR+HIWARE;%3E+BUILDING+THE+FUTURE+WITH+CODE_;Hey+There!+👋;I'm+Mayur+Hiware;AI+%26+ML+Developer;Full+Stack+Innovator;2x+Hackathon+Winner;Problem+Solver+💡;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=1800&pause=900&color=00FF00&center=true&width=740&lines=%3E+HELLO+WORLD...;%3E+I+AM+MAYUR+HIWARE;%3E+BUILDING+THE+FUTURE+WITH+CODE_;Hey+There!+👋;I'm+Mayur+Hiware;AI+%26+ML+Developer;Full+Stack+Innovator;3x+Hackathon+Winner;Problem+Solver+💡;Open+Source+Enthusiast" />
 
 </div>
 
