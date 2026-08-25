@@ -1,4 +1,7 @@
-# <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=220&section=header&text=Mayur%20Hiware&fontSize=65&fontColor=C9F3FF&animation=fadeIn"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=200&section=header&text=Mayur%20Hiware&fontSize=70&fontColor=C9F3FF&animation=fadeIn" />
+</div>
+
 
 <div align="center">
 
@@ -6,7 +9,7 @@
 
 </div>
 
----
+
 
 ## 🧑‍💻 About Me
 
