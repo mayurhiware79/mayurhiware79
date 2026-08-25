@@ -1,143 +1,285 @@
+# <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=220&section=header&text=Mayur%20Hiware&fontSize=65&fontColor=C9F3FF&animation=fadeIn"/>
 
-<!-- Dynamic Animated Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000FF,00CFFF&height=200&section=header&text=Mayur%20Hiware&fontSize=70&fontColor=C9F3FF&animation=fadeIn" />
-</div>
-
-<br>
-<br>
-
-<!-- 🟢 Hacker Terminal Intro -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=1800&pause=900&color=00FF00&center=true&width=740&lines=%3E+HELLO+WORLD...;%3E+I+AM+MAYUR+HIWARE;%3E+BUILDING+THE+FUTURE+WITH+CODE_;Hey+There!+👋;I'm+Mayur+Hiware;AI+%26+ML+Developer;Full+Stack+Innovator;3x+Hackathon+Winner;Problem+Solver+💡;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&duration=2000&pause=800&color=00FF7F&center=true&vCenter=true&width=760&lines=%3E+HELLO+WORLD...;%3E+I'M+MAYUR+HIWARE;%3E+FULL+STACK+DEVELOPER;%3E+JAVA+%7C+REACT+%7C+NODE.JS;%3E+400%2B+LEETCODE+PROBLEMS;%3E+3x+HACKATHON+WINNER"/>
 
 </div>
 
+---
 
-
-
-## 🧠 About Me
-
-
-<div align="left">
+## 🧑‍💻 About Me
 
 ```yaml
 name: Mayur Hiware
-located_in: Kolhapur, India
-current_job: LeetCoder 😅
-education:
-  - "B.Tech in Computer Science"
+role: B.Tech Computer Science & Engineering Student
+location: Kolhapur, Maharashtra 🇮🇳
+graduation: 2027
+cgpa: 9.13 / 10
 
-fields_of_interest:
-  - "Machine Learning"
-  - "Deep Learning"
-  - "Full Stack Development"
-  - "Computer Vision"
-  - "Natural Language Processing"
+current_focus:
+  - Full Stack Development
+  - Java + DSA
+  - Backend Engineering
+  - AI-powered Productivity Applications
+  - System Design Fundamentals
 
-hobbies: ["Coding", "Playing", "Reading", "Open Source"]
+fun_fact: "I enjoy turning ideas into real products through hackathons and side projects."
 ```
+
+💡 I enjoy building practical software, solving engineering problems, and continuously improving my Computer Science fundamentals through projects, hackathons, and competitive programming.
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,c,js,ts,python"/>
+
+</p>
+
+### Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+
+</p>
+
+### Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+
+</p>
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
+
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,aws"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🚀 Momentum - AI Academic Intelligence Platform
+
+> AI-powered productivity ecosystem for students.
+
+**Highlights**
+
+* Chrome Extension (Manifest V3)
+* AI-powered distraction detection
+* LangChain + ChromaDB integration
+* Google Calendar scheduling workflows
+* Wellness & productivity analytics
+
+**Tech**
+
+`React` `Node.js` `Firebase` `LangChain` `ChromaDB` `Google Calendar API`
+
+🔗 **Live Demo:** https://momentum01.netlify.app
+
+---
+
+## 💌 GenMail - AI Email Campaign Platform
+
+> Generate professional email campaigns with AI assistance.
+
+**Features**
+
+* Prompt-to-email generation
+* Drag & Drop Email Builder
+* Clerk Authentication
+* Spam Analysis
+* Personalized Campaign Delivery
+
+**Tech**
+
+`React` `Node.js` `Express` `MongoDB` `Clerk` `OpenAI API`
+
+🔗 **Live Demo:** https://genmail-alpha.vercel.app
+
+---
+
+## 🤝 Issue Alliance - Open Source Recommendation Platform
+
+> Discover GitHub issues tailored to your skills.
+
+**Highlights**
+
+* GitHub Repository Analysis
+* NLP-powered Issue Ranking
+* Developer Profiling
+* Firebase Authentication
+
+**Tech**
+
+`React` `Node.js` `Express` `Firebase` `GitHub REST API`
+
+🔗 **Live Demo:** https://issuealliance.netlify.app
+
+---
+
+# 💻 Problem Solving Journey
+
+<div align="center">
+
+### 🧩 LeetCode Stats
+
+<img src="https://leetcard.jacoblin.cool/TheEnigmaSoul_12?ext=contest&theme=dark"/>
 
 </div>
 
+### 🏆 LeetCode Badges
+
+<p align="center">
+
+<img src="25100.gif" width="150"/>
+
+<img src="2550.gif" width="150"/>
+
+<img src="202508.gif" width="150"/>
+
+</p>
+
+**Progress**
+
+* ✅ 400+ Problems Solved
+* ☕ Java Primary Language
+* 📈 Regular DSA Practice
+* 🎯 Focus: Arrays - Trees - Graphs - DP - SQL
 
 ---
 
-## 💻 Tech Universe
+# 🏅 Achievements
+
+<table>
+
+<tr>
+<td>🥇</td>
+<td><b>Winner - HACKHIVE-2K26 National Hackathon</b></td>
+</tr>
+
+<tr>
+<td>🥇</td>
+<td><b>Winner - AITM Belagavi Hackathon</b><br>Ranked <b>1st among 120+ teams</b></td>
+</tr>
+
+<tr>
+<td>🥇</td>
+<td><b>1st Place - GDG On-Campus Prabal Hackathon</b><br>Ranked <b>1st among 150+ teams</b></td>
+</tr>
+
+<tr>
+<td>🥈</td>
+<td><b>Runner-Up - COEP MindSpark'25</b></td>
+</tr>
+
+<tr>
+<td>🥈</td>
+<td><b>Runner-Up - IIT Dharwad Find The Bug 3.0</b><br><b>1000+ Participants</b></td>
+</tr>
+
+<tr>
+<td>🥈</td>
+<td><b>Runner-Up - Project Based Learning (PBL), KITCOEK</b><br><b>GenMail - AI Email Campaign Platform</b></td>
+</tr>
+
+</table>
+
+---
+
+# 📜 Certifications
+
+* 🥈 **NPTEL - Advanced Data Structures in Java (Elite)**
+* 🤖 **Microsoft × SAP - AI: Transformative Learning Internship**
+* 🌐 **AICTE EduSkills - Web Full Stack Developer Virtual Internship**
+* 🎨 **Google × Coursera - Foundations of User Experience (UX) Design**
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,redis,aws,azure,firebase,git,github,visualstudio,linux,bash&theme=dark&perline=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🟧 LeetCode Badges (Earned)
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="25100.gif" width="160">
-  <img src="2550.gif" width="160">
-  <img src="202508.gif" width="160">
-</p>
 
-<!-- 
+<img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/snake.svg"/>
 
-## 🚀 GitHub Insights & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
-</p>
-
---->
-
-<!-- ## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=react-dark&bg_color=0d1117&hide_border=true&line=FFA500&point=FFFFFF&area=true&area_color=FFA500&custom_title=My%20Contribution%20Activity" />
-</p>
-
---->
-
-## 🏅 LeetCode Stats 
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/TheEnigmaSoul_12?ext=contest&theme=dark" />
-</p>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayurhiware79/mayurhiware79/output/snake.svg" />
 </p>
 
 ---
 
-
-
-## 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
 <p align="center">
-    <img src="https://github-readme-trophy.vercel.app/?username=mayurhiware79&theme=radical&no-bg=true&no-frame=true&margin-w=10" />
-</p>    
 
----
+<a href="https://www.linkedin.com/in/mayur-hiware/">
 
-<!-- Social Connect with Advanced Badges -->
-<h2 align="center">🌐 Connect & Collaborate</h2>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayur-hiware/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/mayur.hiware.79/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:mayurhiware01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/Economy_Smell_5481/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
- 
+</a>
+
+<a href="mailto:mayurhiware01@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/mayurhiware79">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
 </p>
 
 ---
 
-## 💬 Random Developer Quote
+<div align="center">
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+## ⚡ Current Mission
 
+*"Learning. Building. Competing. Growing into a Software Engineer."*
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF,8000FF&height=120&section=footer"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
+</div>
