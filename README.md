@@ -80,14 +80,14 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=react-dark&bg_color=0d1117&hide_border=true&line=FFA500&point=FFFFFF&area=true&area_color=FFA500&custom_title=My%20Contribution%20Activity" />
 </p>
 
---->
+
 
 ### 🏅 LeetCode Stats 
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/mayurhiware79?ext=contest&theme=dark" />
 </p>
-
+--->
 
 # 🐍 Contribution Snake
 
