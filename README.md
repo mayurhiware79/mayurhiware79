@@ -40,17 +40,17 @@
 </p> -->
 
 <!-- Quote Section -->
-<p align="center">
+<!-- <p align="center">
   <em>✨ "Code that thinks, designs that inspire, solutions that transform." ✨</em>
-</p>
+</p> -->
 
 
 <!-- Profile Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurhiware79&label=Profile+Views&color=orange&style=flat-square" />
   <img src="https://img.shields.io/badge/Timezone-IST_(UTC+5:30)-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Dynamic%20Profile-Active-success?style=flat-square" />
-</p>
+</p> -->
 
 
 
