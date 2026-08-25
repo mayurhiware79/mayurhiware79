@@ -173,32 +173,35 @@ fun_fact: "I enjoy turning ideas into real products through hackathons and side 
 
 <tr>
 <td>🥇</td>
-<td><b>Winner - HACKHIVE-2K26 National Hackathon</b></td>
-</tr>
-
-<tr>
-<td>🥇</td>
-<td><b>Winner - AITM Belagavi Hackathon</b><br>Ranked <b>1st among 120+ teams</b></td>
-</tr>
-
-<tr>
-<td>🥇</td>
 <td><b>1st Place - GDG On-Campus Prabal Hackathon</b><br>Ranked <b>1st among 150+ teams</b></td>
 </tr>
 
 <tr>
 <td>🥈</td>
-<td><b>Runner-Up - COEP MindSpark'25</b></td>
+<td><b>Runner-Up - COEP MindSpark'25</b><br>Ranked <b>2nd among 400+ teams</b></td>
 </tr>
+
+<tr>
+<td>🥇</td>
+<td><b>Winner - HACKHIVE-2K26 National Hackathon</b><br>Ranked <b>1st among 150+ teams</b></td>
+</tr>
+
 
 <tr>
 <td>🥈</td>
 <td><b>Runner-Up - IIT Dharwad Find The Bug 3.0</b><br><b>1000+ Participants</b></td>
 </tr>
 
+
+<tr>
+<td>🥇</td>
+<td><b>1st Prize - Jidnyasa 2K25 National-Level Project Competition</b><br>Ranked <b>1st among 80+ teams</b> - IssueAlliance</td>
+</tr>
+
+
 <tr>
 <td>🥈</td>
-<td><b>Runner-Up - Project Based Learning (PBL), KITCOEK</b><br><b>GenMail - AI Email Campaign Platform</b></td>
+<td><b>Runner-Up - Project Based Learning (PBL), KITCOEK</b><br>GenMail - AI Email Campaign Platform</td>
 </tr>
 
 </table>
