@@ -14,44 +14,6 @@
 </div>
 
 
-<!-- 🚀 Heroku App Style Launch Badge -->
-<!-- <div align="center">
-
-<img src="https://img.shields.io/badge/DEPLOYMENT_STATUS-Running-success?style=for-the-badge&logo=heroku&logoColor=white&color=79589F" />
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=9F7FFF&center=true&width=600&lines=Initializing+Mayur.Hiware.App();Deploying+AI+Models...;Building+Full-Stack+Infrastructure...;Loading+Machine+Learning+Pipelines...;System+Online+✓">
-
-</div> -->
-
-
-
-<!-- 🟠 Main Animated Introduction -->
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=500&color=FFA500&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Mayur+Hiware;AI+%26+ML+Developer;Full+Stack+Innovator;2x+Hackathon+Winner;Problem+Solver+💡;Open+Source+Enthusiast" alt="Typing SVG" />
-</h1> -->
-
-
-
-
-
-<!-- Animated GIF Section -->
-<!-- <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="65%">
-</p> -->
-
-<!-- Quote Section -->
-<!-- <p align="center">
-  <em>✨ "Code that thinks, designs that inspire, solutions that transform." ✨</em>
-</p> -->
-
-
-<!-- Profile Stats -->
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayurhiware79&label=Profile+Views&color=orange&style=flat-square" />
-  <img src="https://img.shields.io/badge/Timezone-IST_(UTC+5:30)-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Dynamic%20Profile-Active-success?style=flat-square" />
-</p> -->
-
 
 
 ## 🧠 About Me
@@ -97,28 +59,34 @@ hobbies: ["Coding", "Playing", "Reading", "Open Source"]
   <img src="202508.gif" width="160">
 </p>
 
-<!-- --- -->
+<!-- 
 
-<!-- ## 🚀 GitHub Insights & Top Languages -->
+## 🚀 GitHub Insights & Top Languages
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayurhiware79&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurhiware79&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css,scss" width="48%"/>
 </p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=mayurhiware79&theme=radical&hide_border=true"/>
-</p> -->
+</p>
 
----
+--->
 
-## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayurhiware79&theme=react-dark&bg_color=0d1117&hide_border=true&line=FFA500&point=FFFFFF&area=true&area_color=FFA500&custom_title=My%20Contribution%20Activity" />
 </p>
 
----
+--->
+
+### 🏅 LeetCode Stats 
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mayurhiware79?ext=contest&theme=dark" />
+</p>
 
 
 # 🐍 Contribution Snake
