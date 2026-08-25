@@ -100,6 +100,25 @@ fun_fact: "I enjoy turning ideas into real products through hackathons and side 
 
 ---
 
+## 🤝 Issue Alliance - Open Source Recommendation Platform
+
+> Discover GitHub issues tailored to your skills.
+
+**Highlights**
+
+* GitHub Repository Analysis
+* NLP-powered Issue Ranking
+* Developer Profiling
+* Firebase Authentication
+
+**Tech**
+
+`React` `Node.js` `Express` `Firebase` `GitHub REST API`
+
+🔗 **Live Demo:** https://issuealliance.netlify.app
+
+---
+
 ## 💌 GenMail - AI Email Campaign Platform
 
 > Generate professional email campaigns with AI assistance.
@@ -117,25 +136,6 @@ fun_fact: "I enjoy turning ideas into real products through hackathons and side 
 `React` `Node.js` `Express` `MongoDB` `Clerk` `OpenAI API`
 
 🔗 **Live Demo:** https://genmail-alpha.vercel.app
-
----
-
-## 🤝 Issue Alliance - Open Source Recommendation Platform
-
-> Discover GitHub issues tailored to your skills.
-
-**Highlights**
-
-* GitHub Repository Analysis
-* NLP-powered Issue Ranking
-* Developer Profiling
-* Firebase Authentication
-
-**Tech**
-
-`React` `Node.js` `Express` `Firebase` `GitHub REST API`
-
-🔗 **Live Demo:** https://issuealliance.netlify.app
 
 ---
 
